@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubUserAPI</string>
+    <string name="det_page">Profile Detail</string>
+    <string name="display_pic">profile picture</string>
+    <string name="username">username</string>
+    <string name="name">Name</string>
+    <string name="city">City</string>
+    <string name="company">Company</string>
+    <string name="search_hint">username...</string>
+    <string name="menu_search">Search</string>
+    <string name="following_tab">Following</string>
+    <string name="followers_tab">Followers</string>
+    <string name="menu_localization">Localization</string>
+    <string name="search_nihil">No Match Found</string>
+    <string name="error_connect">Error: Can not connect to Server</string>
+    <string name="error_loading">Error: Can not load the data</string>
+
+    <string name="numOfFollowing">%d Following</string>
+    <plurals name="numOfFollower">
+        <item quantity="one">%d Follower</item>
+        <item quantity="other">%d Followers</item>
+    </plurals>
+
+</resources>

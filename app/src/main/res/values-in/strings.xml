@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubUserAPI</string>
+    <string name="det_page">Detail Profil</string>
+    <string name="display_pic">foto profil</string>
+    <string name="username">username</string>
+    <string name="name">Nama</string>
+    <string name="city">Kota</string>
+    <string name="company">Perusahaan</string>
+    <string name="search_hint">username...</string>
+    <string name="menu_search">Pencarian</string>
+    <string name="following_tab">Mengikuti</string>
+    <string name="followers_tab">Pengikut</string>
+    <string name="menu_localization">Lokalisasi</string>
+    <string name="search_nihil">Tidak Ditemukan</string>
+    <string name="error_connect">Kesalahan: Tidak dapat tersambung ke server</string>
+    <string name="error_loading">Kesalahan: Tidak dapat memuat data</string>
+
+    <string name="numOfFollowing">%d Mengikuti</string>
+    <plurals name="numOfFollower">
+        <item quantity="one">%d Pengikut</item>
+        <item quantity="other">%d Pengikut</item>
+    </plurals>
+
+</resources>
